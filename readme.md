@@ -1,1 +1,4 @@
-![Metrics](https://metrics.lecoq.io/1000ch)
+- Software Engineer based in Tokyo, Japan
+- Follow [@1000ch](https://x.com/1000ch) on X
+- Follow [1000ch.bsky.social](https://bsky.app/profile/1000ch.bsky.social) on Bluesky
+- [Sponsor @1000ch](https://github.com/sponsors/1000ch) on GitHub
